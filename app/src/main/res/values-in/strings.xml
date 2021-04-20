@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GithubS2</string>
+    <string name="user_name">Nama Pengguna</string>
+    <string name="user_office">Kantor Pengguna</string>
+    <string name="user_location">Lokasi Pengguna</string>
+    <string name="user_repository">Kumpulan Kode Pengguna</string>
+
+    <string name="n_follower">%s Pengikut</string>
+    <string name="n_following">%s Mengikuti</string>
+    <string name="search_hint">Cari Username</string>
+    <string name="empty_user_list">List Pengguna Kosong</string>
+    <string name="action_button_back">Tombol Kembali</string>
+    <string name="foto_user">Foto Pengguna</string>
+    <string name="languange_select">Ganti Bahasa</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="total_follower">Jumlah Pengikut</string>
+    <string name="total_following">Jumlah Mengikuti</string>
+
+</resources>

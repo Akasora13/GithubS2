@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_languagesChange"
+        android:title="@string/languange_select"/>
+
+    <item android:id="@+id/action_dailyReminder"
+        android:title="@string/daily_reminder"/>
+
+    <item android:id="@+id/action_favorite"
+        android:title="@string/favorite_user"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        app:showAsAction="ifRoom" />
+
+</menu>
